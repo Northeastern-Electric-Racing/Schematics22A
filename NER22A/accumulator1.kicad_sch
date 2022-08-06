@@ -1,0 +1,46 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 859096b9-bf63-4d0a-8811-a6c2c2dbe0d0)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 132.08 38.1) (size 39.37 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 43c1c9f2-aa3d-4906-bafc-86f432ad610b)
+    (property "Sheet name" "Segment2" (id 0) (at 132.08 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "segment.kicad_sch" (id 1) (at 132.08 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 40.64 38.1) (size 39.37 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8e3a6f27-2c9d-4cd9-aa19-4d4f86271d71)
+    (property "Sheet name" "Segment" (id 0) (at 40.64 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "segment.kicad_sch" (id 1) (at 40.64 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 86.36 38.1) (size 39.37 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid f6569233-c48b-4db8-951d-35f69f8f9cea)
+    (property "Sheet name" "Segment1" (id 0) (at 86.36 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "segment.kicad_sch" (id 1) (at 86.36 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+)

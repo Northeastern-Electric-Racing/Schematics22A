@@ -2,7 +2,7 @@
 
   (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
 
-  (paper "A1")
+  (paper "A2")
 
   (title_block
     (title "NER22A Master Schematic")
@@ -15,7 +15,39 @@
   )
 
 
+  (sheet (at 80.01 64.77) (size 85.09 82.55) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2b9f2be9-94ac-4f24-8583-0445b8833796)
+    (property "Sheet name" "Accumulator 1" (id 0) (at 80.01 64.0584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "accumulator1.kicad_sch" (id 1) (at 80.01 147.9046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 180.34 64.77) (size 91.44 82.55) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid f0a6d14d-7d1c-42e4-8256-766a74ad9e63)
+    (property "Sheet name" "Accumulator 2" (id 0) (at 180.34 64.0584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "accumulator2.kicad_sch" (id 1) (at 180.34 147.9046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/2b9f2be9-94ac-4f24-8583-0445b8833796" (page "2"))
+    (path "/2b9f2be9-94ac-4f24-8583-0445b8833796/f6569233-c48b-4db8-951d-35f69f8f9cea" (page "3"))
+    (path "/2b9f2be9-94ac-4f24-8583-0445b8833796/8e3a6f27-2c9d-4cd9-aa19-4d4f86271d71" (page "4"))
+    (path "/2b9f2be9-94ac-4f24-8583-0445b8833796/43c1c9f2-aa3d-4906-bafc-86f432ad610b" (page "5"))
+    (path "/f0a6d14d-7d1c-42e4-8256-766a74ad9e63" (page "6"))
+    (path "/f0a6d14d-7d1c-42e4-8256-766a74ad9e63/a6be1d04-711b-420d-9ef0-f8c48519c795" (page "7"))
+    (path "/f0a6d14d-7d1c-42e4-8256-766a74ad9e63/691a96d4-55b0-4fa9-8a90-ccbdbbcfafed" (page "8"))
+    (path "/f0a6d14d-7d1c-42e4-8256-766a74ad9e63/4b85252a-2f82-4b70-9d64-a194fd6a4bd1" (page "9"))
   )
 )

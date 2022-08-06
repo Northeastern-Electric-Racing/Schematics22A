@@ -1,0 +1,14 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid cab52f31-bd43-4889-a818-94d67d18a1cd)
+
+  (paper "A4")
+
+  (title_block
+    (company "Northeastern Electric Racing")
+  )
+
+  (lib_symbols
+  )
+
+)
