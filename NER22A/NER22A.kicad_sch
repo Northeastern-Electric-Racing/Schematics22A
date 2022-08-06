@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A1")
+
+  (title_block
+    (title "NER22A Master Schematic")
+    (date "2022-08-05")
+    (rev "1.0")
+    (company "Northeastern Electric Racing")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
