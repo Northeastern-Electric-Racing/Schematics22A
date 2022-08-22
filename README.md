@@ -7,3 +7,10 @@ Schematic files for PCBs are drawn in Altium and can be found in the [NER Altium
 > Note: Once a PCB has been ordered, the schematics should be printed as a PDF and put in the relevant folder in this repository.
 
 ## Schematic Organization
+Nested pages should be minimized
+All custom PCBs should be implemented as components
+Use lines and 3mm text to indicate boxes
+Panel mount connectors should be crossing over box lines
+### Net Names:
+Use camelCase
+RELEVANTCOMPONENT_PinName_IN/OUT
