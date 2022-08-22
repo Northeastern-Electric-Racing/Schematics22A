@@ -320,38 +320,6 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
-    ],
-    [
-      "2b9f2be9-94ac-4f24-8583-0445b8833796",
-      "Accumulator 1"
-    ],
-    [
-      "f6569233-c48b-4db8-951d-35f69f8f9cea",
-      "Segment1"
-    ],
-    [
-      "8e3a6f27-2c9d-4cd9-aa19-4d4f86271d71",
-      "Segment"
-    ],
-    [
-      "43c1c9f2-aa3d-4906-bafc-86f432ad610b",
-      "Segment2"
-    ],
-    [
-      "f0a6d14d-7d1c-42e4-8256-766a74ad9e63",
-      "Accumulator 2"
-    ],
-    [
-      "a6be1d04-711b-420d-9ef0-f8c48519c795",
-      "Segment4"
-    ],
-    [
-      "691a96d4-55b0-4fa9-8a90-ccbdbbcfafed",
-      "Segment3"
-    ],
-    [
-      "4b85252a-2f82-4b70-9d64-a194fd6a4bd1",
-      "Segment5"
     ]
   ],
   "text_variables": {}
