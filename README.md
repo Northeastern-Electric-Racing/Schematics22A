@@ -10,9 +10,9 @@ Schematic files for PCBs are drawn in Altium and can be found in the [NER Altium
 Nested pages should be minimized\
 All custom PCBs should be implemented as components\
 Use lines and 3mm text to indicate boxes\
-Panel mount connectors should be crossing over box lines\
+Panel mount connectors should be crossing over box lines
 ### Net Names:
 Use camelCase\
-**TYPE_PinName_IN/OUT**\
+**TYPE_PinName_IN/OUT**
 > Ex: TSAL_High, SPI_IM_IN, SHUTDOWN, GLV_12V
 
