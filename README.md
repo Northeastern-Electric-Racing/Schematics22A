@@ -11,8 +11,8 @@ Nested pages should be minimized\
 All custom PCBs should be implemented as components\
 Use lines and 3mm text to indicate boxes\
 Panel mount connectors should be crossing over box lines
-### Net Names:
-Use camelCase\
+
+## Net Names:
 **TYPE_PinName_IN/OUT**
 > Ex: TSAL_High, SPI_IM_IN, SHUTDOWN, GLV_12V
 
