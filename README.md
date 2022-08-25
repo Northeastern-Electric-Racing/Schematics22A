@@ -9,7 +9,7 @@ Schematic files for PCBs are drawn in Altium and can be found in the [NER Altium
 ## Schematic Organization
 Nested pages should be minimized\
 All custom PCBs should be implemented as components\
-Use lines and 3mm text to indicate boxes\
+Use lines and 120mil text to indicate boxes\
 Panel mount connectors should be crossing over box lines
 
 ## Net Names:
