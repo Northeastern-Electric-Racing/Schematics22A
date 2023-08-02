@@ -1,0 +1,23 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 90797100-7160-442d-944c-384ecfaf66d4)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "GND" (shape input) (at 84.455 73.025 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid c804c579-03a6-4382-b4de-1e5d3db263de)
+  )
+  (hierarchical_label "TSAL_GRN" (shape input) (at 84.455 67.31 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid ca87969b-dda5-46b0-877e-cc01f738c954)
+  )
+  (hierarchical_label "TSAL_RED" (shape input) (at 84.455 69.85 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid e975e5c2-b9a7-44fd-b27e-aa93508efdf1)
+  )
+)

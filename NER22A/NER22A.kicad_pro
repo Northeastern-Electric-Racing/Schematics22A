@@ -338,28 +338,112 @@
       ""
     ],
     [
-      "200f354e-4d7d-4f20-8ead-d2283d27d2e3",
-      "Segment 2"
-    ],
-    [
-      "f06121cd-b306-4190-92bb-7b783f180aea",
-      "Segment 3"
-    ],
-    [
-      "95ae12b3-18fb-417f-808e-70765f135679",
+      "02559524-152d-4c25-bdf2-8894ce15638e",
       "Segment 4"
     ],
     [
-      "0ff55ffd-cee2-4989-a2c2-b025f1ce2b81",
-      "Segment 5"
+      "9975a03b-5181-48b6-adb9-ca539a06b479",
+      "Segment 3"
     ],
     [
-      "cea7023c-d8f5-44ca-b344-9716f54d9c35",
+      "27d3790b-eaaf-4890-b6c4-c96de99f783d",
       "Segment 6"
     ],
     [
-      "e71a8466-b3de-409a-b896-b64ee84cba58",
+      "68c691b0-515e-4a52-8fcb-42d3851a15eb",
       "Segment 1"
+    ],
+    [
+      "09926f7c-208b-41aa-9ac6-f8b6dbf19169",
+      "Segment 2"
+    ],
+    [
+      "36bd6600-8186-4ca1-bd90-0bf382ee00af",
+      "Segment 5"
+    ],
+    [
+      "0c32da59-4026-4923-9fd7-8475bf514c82",
+      "LV_BOX"
+    ],
+    [
+      "38ea10be-8571-4991-9b6f-778ab0380444",
+      "Wheel"
+    ],
+    [
+      "61837c9e-cf6c-4ef0-9cde-062301ff0c4d",
+      "Charger"
+    ],
+    [
+      "d9baaf81-7e67-4de4-83a0-935dc07177eb",
+      "Accumulator Container"
+    ],
+    [
+      "9af4f15e-0ef8-42d1-b422-5d00262af299",
+      "Power Distribution"
+    ],
+    [
+      "b55a26d6-265a-4c12-b35e-c9078dc73078",
+      "GLV Battery Board"
+    ],
+    [
+      "729c0567-42e1-4ae1-acdb-da6bf1c6e4ff",
+      "Dashboard"
+    ],
+    [
+      "cab6d83d-3451-42e9-a236-902764ecd5a7",
+      "PDU 22A"
+    ],
+    [
+      "5efd7074-23b8-47f1-96a0-02c231df5d6c",
+      "TSAL"
+    ],
+    [
+      "8f34a63a-d06e-45b1-b9e9-97481f1c43ff",
+      "Accumulator"
+    ],
+    [
+      "5f1d1b61-eb8c-4368-961c-bfc69ef101ec",
+      "MPU 22A"
+    ],
+    [
+      "5bf532c8-19f6-4d94-a3ba-88e74e10c1f7",
+      "Latching_Fault_and_BSPD"
+    ],
+    [
+      "7937d9a0-0551-479f-95c5-c15b140b0950",
+      "TPU_22A"
+    ],
+    [
+      "ae005cdf-305b-4bdf-80a5-55e11467e749",
+      "Mechanical_Sensor_Board_1"
+    ],
+    [
+      "ab7fb72d-387c-4842-a92e-b340d069b662",
+      "Mechanical_Sensor_Board_2"
+    ],
+    [
+      "aaeb5589-2cce-4869-91d7-6161f31619a8",
+      "Mechanical_Sensor_Board_2"
+    ],
+    [
+      "4aef9547-a819-4df1-8950-2c7b8f163105",
+      "Mechanical_Sensor_Board_3"
+    ],
+    [
+      "b242ac23-6167-4bfb-8f55-827b84a9cd34",
+      "Brake_Light"
+    ],
+    [
+      "1d03281e-6f9c-46d9-9a3f-00b94406ffd0",
+      "Charger1"
+    ],
+    [
+      "4deafcb0-e85d-4fee-a877-8833367915a1",
+      "Dashboard"
+    ],
+    [
+      "d6d8ed3a-7154-4a3e-9b04-451c8dc1e27e",
+      "Steering_Wheel"
     ]
   ],
   "text_variables": {}

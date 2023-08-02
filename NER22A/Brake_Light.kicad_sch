@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f797919a-9f75-4c67-a9c0-54a27c743744)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "24V_Brakelight" (shape input) (at 131.445 93.98 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 54bb5dd5-cf90-4491-a6f6-5e911bbd94ca)
+  )
+  (hierarchical_label "CANH" (shape input) (at 132.08 101.6 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a31a2c17-ebf4-4389-9353-bcfb42604f61)
+  )
+  (hierarchical_label "CANL" (shape input) (at 132.08 104.775 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid c77a6a7f-1a1a-45a1-9afb-18f6806cf54f)
+  )
+  (hierarchical_label "GND" (shape input) (at 132.08 97.155 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d2b7ca27-a967-42c7-96e2-95cc3f675270)
+  )
+  (hierarchical_label "CAN_SHIELD" (shape input) (at 132.08 108.585 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid eeeea120-50df-4c4b-b6eb-21bb2ddaa5fd)
+  )
+)
